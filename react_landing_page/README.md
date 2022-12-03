@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  react landing page Website - v1.0 (froked) <br/>
   <a href="http://skillscodified.com/" target="_blank">Skills Codified</a>
 </h2>
 <div align="center">
