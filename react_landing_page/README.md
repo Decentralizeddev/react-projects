@@ -2,10 +2,7 @@
   react landing page Website - v1.0 (froked) <br/>
   <a href="http://skillscodified.com/" target="_blank">Skills Codified</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
-
+ 
 <br/>
 
 <center>
